@@ -2,7 +2,7 @@
 using namespace std;
 class one{
 	public: one(){
-		cout<<"WELCOME\n";
+		cout<<"Inside constructor\n";
 	}
 	one(int a, int b){
 		cout<<"Sum of two numbers is : ";
